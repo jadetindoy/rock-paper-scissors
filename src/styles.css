@@ -1,0 +1,29 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.game {
+  margin: 20px 0;
+}
+
+.choices button {
+  font-size: 2rem;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 20px;
+}
+
+.scoreboard, .history {
+  margin-top: 20px;
+}
+
+.reset-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
